@@ -29,7 +29,7 @@
   ],
   "devDependencies": {
     "@modelcontextprotocol/ext-apps": "^1.7.5",
-    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@types/node": "^22.0.0",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
@@ -38,7 +38,7 @@
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "typescript": "^5.4.5",
-    "vitest": "^3.2.4",
-    "zod": "^3.25.0"
+    "vitest": "^5.0.5",
+    "zod": "^4.6.6"
   }
 }
