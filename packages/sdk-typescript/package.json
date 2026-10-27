@@ -71,8 +71,8 @@
     "node": ">=22.0.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.30.0",
-    "zod": "^3.25.0"
+    "@modelcontextprotocol/sdk": "^1.32.0",
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@qwen-code/acp-bridge": "file:../acp-bridge",
@@ -85,7 +85,7 @@
     "esbuild": "^0.25.12",
     "eslint": "^8.57.0",
     "typescript": "^5.4.5",
-    "vitest": "^1.6.0"
+    "vitest": "^5.0.5"
   },
   "peerDependencies": {
     "typescript": ">=5.0.0"
